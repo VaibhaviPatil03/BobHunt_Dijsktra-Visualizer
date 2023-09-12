@@ -1,0 +1,69 @@
+#mainContainer {
+    padding: 25px 100px 100px 100px;
+}
+
+.col {
+    padding: 12px;
+    background: thistle;
+    background-repeat: no-repeat;
+    color: white;
+    cursor: pointer;
+}
+
+.wall {
+    background-image: url(https://media.gettyimages.com/photos/old-brick-wall-background-picture-id184111906?b=1&k=6&m=184111906&s=170667a&w=0&h=SaSbs0CdSvvog-wOk3qsXfmJtIUndL5w0kA9gsBGcgs=);
+}
+
+.starting {
+    background: darkgreen;
+}
+
+.visited {
+    background: darkblue;
+}
+
+.shortestPath {
+    background: green;
+}
+
+.nbvisit {
+    background: #D41822;
+}
+
+.ending {
+    background: darkred;
+}
+
+@media (max-width: 763px) {
+    #mainContainer {
+        padding: 15px;
+    }
+    .col {
+        margin: 5px;
+        padding: 5px;
+        margin: 0;
+    }
+}
+
+.navbar {
+    background: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: wheat;
+}
+
+a {
+    color: rgb(206, 202, 194)
+}
+
+#icon_twitter, #icon_github {
+
+    border: 1px solid black;
+    border-radius: 50%;
+    float: right;
+    margin: 0px 4px;
+}
+
