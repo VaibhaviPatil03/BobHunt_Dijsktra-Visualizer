@@ -1,6 +1,6 @@
 # Dijsktra Algorithm Visualizer
 
-### [WEB LINK](https://vaibhavipatil03.github.io/MissingBOB/)
+### [WEB LINK](https://vaibhavipatil03.github.io/BobHunt_Dijsktra-Visualizer/)
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
 <br>
